@@ -75,7 +75,7 @@ figure {
     margin-left: 25px;
 }
 
-.content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -140,10 +140,11 @@ figure {
     max-width: 150px;
 }
 
-/* consolidated these 3 entries into 1 as they have same values */
-.search-engine-optimization,
+/* changed to section */
+/* .search-engine-optimization,
 .online-reputation-management,
-.social-media-marketing {
+.social-media-marketing { */
+section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -152,10 +153,11 @@ figure {
     color: #ffffff;
 }
 
-/* combined these classes as they have the same values */
-.search-engine-optimization img,
+/* changed to section img */
+/* .search-engine-optimization img,
 .online-reputation-management img,
-.social-media-marketing img {
+.social-media-marketing img { */
+section img {
     max-height: 200px;
 }
 
@@ -166,7 +168,6 @@ figure {
 
 .social-media-marketing img {
     max-height: 200px; */
-}
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
