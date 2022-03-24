@@ -8,23 +8,27 @@ body {
     background-color: #d9dcd6;
 }
 
-.header {
+/* changed from class to just header */
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-.header h1 {
+/* changed to just h1 */
+h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
+/* changed to a class in h1. Not sure if correct */
+h1 .seo {
     color: #d9dcd6;
 }
 
-.header div {
+/* changed to class called headerlinks to better define */
+.headerlinks {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +36,13 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+/* changed to just affect all ul items since only used in header */
+ul {
     list-style-type: none;
 }
 
-.header div ul li {
+/* changed to just affect all li items since only used in header */
+li {
     display: inline-block;
     margin-left: 25px;
 }
