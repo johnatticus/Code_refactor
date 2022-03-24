@@ -27,8 +27,8 @@ h1 .seo {
     color: #d9dcd6;
 }
 
-/* changed to class called headerlinks to better define */
-.headerlinks {
+/* changed to nav to */
+nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -81,7 +81,7 @@ main {
     margin-left: 20px;
 }
 
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
