@@ -98,40 +98,11 @@ article {
     color: #ffffff;
 }
 
-/* .benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-} */
-
 /* consolidated the 3 h3 tags into one article h3 */
 article h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-/* .benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-} */
 
 /* consolidated the three img entries into one article img */
 article img {
@@ -139,28 +110,7 @@ article img {
     margin: 10px auto;
     max-width: 150px;
 }
-/* .benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-} */
-
-/* changed to section */
-/* .search-engine-optimization,
-.online-reputation-management,
-.social-media-marketing { */
 section {
     margin-bottom: 20px;
     padding: 50px;
@@ -170,42 +120,16 @@ section {
     color: #ffffff;
 }
 
-/* changed to section img */
-/* .search-engine-optimization img,
-.online-reputation-management img,
-.social-media-marketing img { */
+/* consolidated three img entries into one section img */
 section img {
     max-height: 200px;
 }
-
-/* 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px; */
 
  /* consolidated the 3 h2 tags into section h2 */
 section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-    /* .search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-} */
 
 footer {
     padding: 30px;
